@@ -5,6 +5,10 @@ En este repositorio se pretende clonar la información original del curso, así 
 
 Saludos
 
+<<<<<<< HEAD
 ## Subheader
 Primera edición en local
 .
+=======
+A ver si detecta esta
+>>>>>>> f26ada880ffadaaf4e86cccdbd56dc9d916e67cd
