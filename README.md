@@ -8,7 +8,5 @@ Saludos
 <<<<<<< HEAD
 ## Subheader
 Primera edición en local
-.
-=======
-A ver si detecta esta
->>>>>>> f26ada880ffadaaf4e86cccdbd56dc9d916e67cd
+
+# Tremendo
