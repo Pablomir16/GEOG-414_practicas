@@ -11,13 +11,14 @@ En este repositorio se pretende clonar la información original del curso, así 
 
 ## Google Colabs con los Labs realizados
 
-- [whiteboxR](https://github.com/opengeos/whiteboxR)
+- [lab_01](https://colab.research.google.com/drive/1B-hfgP4rL4f9OPN7IXvX_rfDlrIjyaZ0?usp=drive_link)
+- [lab_02](https://colab.research.google.com/drive/1w68zCcCR3cOPEaEder0DcrcHTiap0cnh?usp=drive_link)
+- [lab_03](https://colab.research.google.com/drive/1ju8JxzQV6bLq2j2l2k0OyS2GJc8sBV1I?usp=drive_link)
 
 ## Useful Resources
 
 - [Awesome-GEE](https://github.com/opengeos/Awesome-GEE)
 - [python-geospatial](https://github.com/opengeos/python-geospatial)
-
+- 
 ## Acknowledgements
-
-Some of the projects hosted by the Open Geospatial Solutions organization are supported by Amazon Web Services ([AWS](https://aws.amazon.com)).
+Gracias a Qiusheng Wu por la información y los contenidos del curso ([giswqs](https://github.com/giswqs)).
