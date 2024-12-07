@@ -17,7 +17,8 @@ En este repositorio se pretende clonar la información original del curso, así 
 - [lab_04](https://colab.research.google.com/drive/1yvHv_k2cMLwXof6DOHwfbHvINvXQhh_C?usp=sharing)
 - [lab_05](https://colab.research.google.com/drive/1IUINreaBC-3V6CUzNvzvqxGkmfB15QUx?usp=sharing)
 - [lab_06](https://colab.research.google.com/drive/1KGQiODOV9ltE_iWvYju96MVWov1Vptbq?usp=sharing)
-
+- [lab_07](https://colab.research.google.com/drive/1ROgEEWBAN6GJvo_SzWnPENdNZ3sEhcqJ?usp=sharing)
+  
 ## Useful Resources
 
 - [Awesome-GEE](https://github.com/opengeos/Awesome-GEE)
