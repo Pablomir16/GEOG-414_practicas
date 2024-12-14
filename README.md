@@ -1,4 +1,4 @@
-# practicas-GEE
+# GEOG-414_practicas
 
 ## Introduction
 
